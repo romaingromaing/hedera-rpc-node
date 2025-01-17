@@ -10,8 +10,6 @@ for the hedera stack (in order to sync) - you need to complete the **application
 # hedera relay
 
 **.env.example** file for the relay stack - do a `cp .env.example .env` and set the vars. These are minimal/mandatory.
-
-for more, you can check here: https://github.com/hashgraph/hedera-json-rpc-relay/blob/main/docs/configuration.md
  
 for more, you can check here: https://github.com/hashgraph/hedera-json-rpc-relay/blob/main/docs/configuration.md
 
