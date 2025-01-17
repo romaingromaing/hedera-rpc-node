@@ -1,0 +1,9 @@
+#hedera:
+#  mirror:
+#    importer:
+#      downloader:
+#        accessKey: {GOOG1E/AWS....}
+#        cloudProvider: "GCP/s3"
+#        gcpProjectId: {projectId} # N/A for AWS
+#        secretKey: {GOOG1E/AWS....}
+#      network: PREVIEWNET/TESTNET/MAINNET # Select one network
